@@ -13,10 +13,12 @@
     "body-parser": "^1.19.0",
     "boom": "^7.3.0",
     "cors": "^2.8.5",
+    "dollars-to-cents": "^1.0.3",
     "express": "^4.17.1",
     "express-promise-router": "^4.0.1",
     "mongoose": "^5.11.16",
     "qs": "^6.9.6",
-    "ramda": "^0.27.1"
+    "ramda": "^0.27.1",
+    "stripe": "^8.135.0"
   }
 }

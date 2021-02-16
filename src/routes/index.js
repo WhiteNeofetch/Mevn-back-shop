@@ -1,5 +1,5 @@
 module.exports = {
     routes: [
-        'categories', 'products'
+        'categories', 'products', 'payment'
     ],
 };
